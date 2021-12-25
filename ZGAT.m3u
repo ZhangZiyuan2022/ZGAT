@@ -3,8 +3,8 @@
 http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1,江苏卫视97
 http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1,湖南卫视147
-http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1,湖南衛視147
+http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1,深圳卫视192
 http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1,厦门卫视227
@@ -291,8 +291,8 @@ http://183.207.249.104/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8
 http://183.207.249.203/ott.js.chinamobile.com/PLTV/3/224/3221227552/index.m3u8
 #EXTINF:-1,江苏卫视 Max16M1080
 http://39.135.89.3:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,湖南衛視
-http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/1.m3u8
+#EXTINF:-1,湖南卫视147
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1,湖南衛視
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=006&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
 #EXTINF:-1,湖南卫视
